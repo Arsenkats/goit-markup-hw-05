@@ -532,7 +532,7 @@ header ul{
 
 .footer-email:focus{
     outline: transparent;
-    border-color: #4d5ae5;
+    border-color: #31d0aa;
 }
 
 .submit-btn-footer{
@@ -561,7 +561,7 @@ header ul{
 
 .submit-btn-footer:hover,
 .submit-btn-footer:focus{
-    background-color: #404bbf;
+    background-color: #31d0aa;
 }
 
 
